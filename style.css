@@ -84,3 +84,21 @@
     color: var(--Hero_FontColor);
     font-size: 18px;
 }
+
+
+.dom-container{
+    padding: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dom-container ul {
+    list-style-type: none;
+}
+.dom-container ul li {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 2em 3em;
+    margin: 1em;
+}
